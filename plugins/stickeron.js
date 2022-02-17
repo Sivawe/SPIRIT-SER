@@ -100,7 +100,7 @@ Julie.addCommand({ pattern: 'emoji ?(.*)', fromMe: true, desc: 'changes list com
         await message.sendMessage("NEW LIST AND EMOJIES UPDATED")
     }));
 
-    Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption *Made by Abuserl*' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption *Made by Spirit ser*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED cA CAPTION')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
@@ -110,7 +110,7 @@ Julie.addCommand({ pattern: 'emoji ?(.*)', fromMe: true, desc: 'changes list com
         await message.sendMessage("NEW CAPTION UPDATED")
     }));
 
-    Julie.addCommand({ pattern: 'number ?(.*)', fromMe: true, desc: 'change user number', usage: '.number *Made by Abuser*' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'number ?(.*)', fromMe: true, desc: 'change user number', usage: '.number *Made by Spirit ser*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED A NUMBER 919895xxxx')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
@@ -120,7 +120,7 @@ Julie.addCommand({ pattern: 'emoji ?(.*)', fromMe: true, desc: 'changes list com
         await message.sendMessage("NEW USER NUMBER UPDATED")
     }));
 
-    Julie.addCommand({ pattern: 'deployer ?(.*)', fromMe: true, desc: 'change user name', usage: '.deployer *Made by Abuser*' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'deployer ?(.*)', fromMe: true, desc: 'change user name', usage: '.deployer *Made by Spirit ser*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED A NAME')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
