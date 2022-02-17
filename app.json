@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "Password is spirit type it in here. Password spirit എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum .",
+            "description": "Password is spirit type it in here. Password spirit എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum ",
             "required": true
         },
         "LANGUAGE": {
