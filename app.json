@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "enter the password, to get password watch https://youtu.be/fd0KPblop-k .",
+            "description": "Password is spirit type it in here. Password spirit എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum .",
             "required": true
         },
         "LANGUAGE": {
