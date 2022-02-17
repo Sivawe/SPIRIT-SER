@@ -13,8 +13,6 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917994093863
 
-Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ :➪ Sᴘɪʀɪᴛ💝
-
 sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
 
 Gɪᴛʜᴜʙ ʟɪɴᴋ:  https://github.com/SPlRlT-YT/SPIRIT-SER
