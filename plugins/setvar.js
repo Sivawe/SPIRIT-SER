@@ -84,15 +84,15 @@ All setvars are
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- To change ABUSER bot name
+ To change SPIRITSER bot name
  .setvar BOT_NAME:your bot name
 
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using spirituser bot 💝*
+     *happy using spirit ser bot 💝*
 
-*Editing And Devaloper : AMRU!AMRUTHESH💕*
+*Editing And Devaloper : SPIRIT!SPIRITTHESH💕*
 
 *Erorr Fixing : Farhan -SPIRIT SER💕*
 
