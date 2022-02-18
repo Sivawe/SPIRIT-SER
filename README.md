@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/SPlRlT-YT-SPIRIT-SER">spirit-ser<
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://www.instagram.com/spirit_ser/)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://www.instagram.com/spirit_ser/)
 
   ### Simple Method
   
