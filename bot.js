@@ -278,7 +278,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                             if (config.NOLOG === 'off') {
                                 
                                 await conn.sendMessage(conn.user.jid, '*~_________~ SPIRIT SER ~______~*' +
-                                    '\n*🌀 Follow this page other wise chance to get erorr: https://youtu.be/OYhA_ZNQ4GQ*' +
+                                    '\n*🌀 Follow this page other wise chance to get erorr: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
