@@ -85,7 +85,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4)
+  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/JnHetBYTBdb6Km2vNC12X3)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPlRlT-YT&repo=spirit-ser&theme=nightowl)](https://github.com/SPlRlT-YT/spirit-ser)
@@ -107,7 +107,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![spirit-ser](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917994093863?text=Can%20you%20help%20bro)**
+**[![KICHU-SER](https://i.imgur.com/8c02mRI.png)](http://wa.me/918714183251?text=*_Hi%20kichu%20ser❤️✨_*)**
 
 ## Developers
   <div align="center">
