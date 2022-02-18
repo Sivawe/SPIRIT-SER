@@ -107,7 +107,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![SPIRIT-SER](https://i.imgur.com/8c02mRI.png)](http://wa.me/918714183251?text=*_Hi%20kichu%20ser❤️✨_*)**
+**[![SPIRIT-SER](https://i.imgur.com/8c02mRI.png)](http://wa.me/917994093863?text=*_Hi%20Spirit%20ser💖✨_*)**
 
 ## Developers
   <div align="center">
@@ -117,8 +117,6 @@ you can contact 👇🏻👇🏻
 [SPlRlT-YT](https://github.com/SPlRlT-YT) | [SPlRlT-YT](https://github.com/SPlRlT-YT) | [Amal-ser](https://github.com/SPlRlT-YT) | [AMALSER](https://github.com/Amal-ser) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
-    
-**[![SPIRIT-SER](https://i.imgur.com/Mbaz2g9.jpg)](http://wa.me/917994093863?text=Can%20you%20help%20bro)**
     
 
     
