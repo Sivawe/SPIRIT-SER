@@ -41,8 +41,6 @@ Project created by <a href="https://github.com/SPlRlT-YT-SPIRIT-SER">spirit-ser<
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER.git)
 
-SIMPLE BGM BOT ONLY!
-
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTbot/SPIRIT-SER-QR)
   
