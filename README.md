@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/Mbaz2g9.jpg>
+<img src=https://i.imgur.com/xsQxqYO.jpg>
 </p>
 
 <img src=https://i.imgur.com/yT8QQKm.png>
