@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/oogzAR2.png>
+<img src=https://i.imgur.com/JsGaYVQ.png>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+SPIRIT+SER+WA+BOT+REPO;CREATED+BY+SPIRIT+SRR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
