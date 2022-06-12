@@ -1,14 +1,14 @@
 {
-  "name": "JulieMwol",
+  "name": "Drug Mods",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-  "main": "./Julie-Mwol/bot.js",
+  "description": "Drug Bot Made By Pranesh.",
+  "main": "./Drug",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "type": "git"
+    "url": 
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "WhatsAsena"
   ],
   "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": "@PRANESH / @DRUG MODS",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
+    "url": "Still Not Yet"
   },
-  "homepage": "https://github.com/farhan-dqz/Julie-Mwol#readme",
+  "homepage": "",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
